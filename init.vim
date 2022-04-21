@@ -1,1 +1,2 @@
 set hidden
+set number
