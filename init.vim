@@ -11,8 +11,7 @@ call plug#begin('~/.local/share/nvim/site/plugged')
  Plug 'SirVer/ultisnips'
  Plug 'honza/vim-snippets'
  Plug 'scrooloose/nerdtree'
- Plug 'preservim/nerdcommenter'
- Plug 'mhinz/vim-startify'
+ " Node.JS Auto-complete
  Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 " List ends here. Plugins become visible to Vim after this call.
