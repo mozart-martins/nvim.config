@@ -24,3 +24,7 @@ PlugInstall
 No Neovim terminal:
 
 PlugUpdate
+
+# NERDTree Setup
+
+It needs Nerd Fonts installed on the system.
